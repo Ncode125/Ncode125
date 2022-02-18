@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, my name is Noah Smith Jr. 👋
+## About me
+Civil Engineer
 
+Senior 
+
+Minor in architecture
+
+Speak english, knows begineer level spanish, learning Manadrian, Japanese, and Korean.
 <!--
 **Ncode125/Ncode125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
